@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- ===== SEO: ОСНОВНЫЕ МЕТА-ТЕГИ ===== -->
-<title>Усадьба Плавни — База отдыха в Карачаево-Черкессии рядом с Архызом</title>
-<meta name="description" content="Усадьба Плавни — уютная база отдыха в горах Карачаево-Черкессии в часе езды от Архыза. Домики с тёплым полом, панорамными окнами, баня, бассейн, чан. Тишина, природа, настоящий отдых.">
-<meta name="keywords" content="база отдыха Архыз, отдых КЧР, домики в горах Карачаево-Черкессия, усадьба Плавни, отдых у горного озера, баня Архыз, бассейн горы, глэмпинг КЧР">
+<title>Горная Усадьба — База отдыха в горах, где отдыхают душой</title>
+<meta name="description" content="Горная Усадьба — уютная база отдыха в горах. Домики с панорамными окнами, баня, бассейн, чан. Тишина, природа, настоящий отдых.">
+<meta name="keywords" content="база отдыха в горах, отдых в горах, домики в горах, Горная Усадьба, отдых у горного озера, баня в горах, бассейн горы, глэмпинг в горах">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://sitipost888.github.io/usadbam/">
 
@@ -18,28 +18,28 @@
 <!-- ===== SEO: OPEN GRAPH (ВКонтакте, Telegram, WhatsApp) ===== -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://sitipost888.github.io/usadbam/">
-<meta property="og:title" content="Усадьба Плавни — Место, где отдыхают душой">
-<meta property="og:description" content="Уютная база отдыха в горах Карачаево-Черкессии. Домики с панорамными окнами, тёплый бассейн, баня, горный воздух. В часе езды от Архыза.">
+<meta property="og:title" content="Горная Усадьба — Место, где отдыхают душой">
+<meta property="og:description" content="Уютная база отдыха в горах. Домики с панорамными окнами, тёплый бассейн, баня, горный воздух.">
 <meta property="og:image" content="images/head.jpg">
 <meta property="og:locale" content="ru_RU">
-<meta property="og:site_name" content="Усадьба Плавни">
+<meta property="og:site_name" content="Горная Усадьба">
 
 <!-- ===== SEO: SCHEMA.ORG — РАЗМЕТКА ДЛЯ GOOGLE ===== -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "LodgingBusiness",
-  "name": "Усадьба Плавни",
-  "description": "Уютная база отдыха в горах Карачаево-Черкессии в часе езды от Архыза. Домики с тёплым полом, бассейн, баня, банный чан.",
+  "name": "Горная Усадьба",
+  "description": "Уютная база отдыха в горах. Домики с тёплым полом, бассейн, баня, банный чан. Тишина, природа, настоящий отдых.",
   "url": "https://sitipost888.github.io/usadbam/",
   "telephone": "+7-928-030-20-70",
   "email": "Usadba-plavni@yandex.ru",
   "image": "images/head.jpg",
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "Карачаево-Черкесская Республика",
+    "addressRegion": "Горный Алтай",
     "addressCountry": "RU",
-    "addressLocality": "Архыз"
+    "addressLocality": "Горный Алтай"
   },
   "geo": {
     "@type": "GeoCoordinates",
@@ -676,9 +676,9 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
 <nav class="navbar">
   <div class="logo-wrap" style="gap:1rem;">
     <div class="logo-img" style="width:4rem;height:4rem;">
-      <img src="images/logo.jpg" alt="Усадьба Плавни">
+      <img src="images/logo.jpg" alt="Горная Усадьба">
     </div>
-    <span class="logo-name" style="font-size:14px;letter-spacing:0.2em;">Усадьба Плавни</span>
+    <span class="logo-name" style="font-size:14px;letter-spacing:0.2em;">Горная Усадьба</span>
   </div>
   
 </nav>
@@ -686,14 +686,14 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
 <section class="hero">
   <div class="hero-bg">
     <div class="hero-overlay"></div>
-    <img src="images/head.jpg" alt="Усадьба Плавни">
+    <img src="images/head.jpg" alt="Горная Усадьба">
   </div>
    <a href="tel:+79280302070" class="desktop-only" style="position:absolute;top:2rem;right:4rem;z-index:3;font-size:20px;font-weight:300;color:#f5e6d3;text-decoration:none;letter-spacing:0.05em;transition:color 0.3s;font-family:var(--sans);">
   +7-928-030-20-70
 </a>
   <div class="hero-loc">
-    <span class="l1">Карачаево-Черкессия,</span>
-    <span class="l2">в часе езды от Архыза</span>
+    <span class="l1">Горный Алтай,</span>
+    <span class="l2">в горах Алтая</span>
   </div>
   <div class="hero-content">
     <h1>Место, где<br><em>отдыхают</em><br>душой</h1>
@@ -716,14 +716,14 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
     </div>
     <div class="imp-banner">
       <div class="imp-img-wrap" style="position:relative;">
-        <img src="images/1.jpg" alt="Дорога в Усадьбу">
+        <img src="images/1.jpg" alt="Дорога в Горную Усадьбу">
         
         <!-- БЕЛЫЙ ТУМАН ПО УГЛАМ -->
         <div style="position:absolute;top:0;left:0;width:30%;height:30%;background:radial-gradient(circle at top left, rgba(255,255,255,0.2), transparent 90%);pointer-events:none;z-index:2;"></div>
 <div style="position:absolute;top:0;right:0;width:30%;height:30%;background:radial-gradient(circle at top right, rgba(255,255,255,0.15), transparent 90%);pointer-events:none;z-index:2;"></div>
 <div style="position:absolute;bottom:0;left:0;width:30%;height:30%;background:radial-gradient(circle at bottom left, rgba(255,255,255,0.15), transparent 90%);pointer-events:none;z-index:2;"></div>
 <div style="position:absolute;bottom:0;right:0;width:30%;height:30%;background:radial-gradient(circle at bottom right, rgba(255,255,255,0.2), transparent 90%);pointer-events:none;z-index:2;"></div>
-        <span class="imp-caption">дорога к усадьбе плавни</span>
+        <span class="imp-caption">дорога к горной усадьбе</span>
       </div>
     </div>
     <div class="imp-text">
@@ -734,7 +734,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
       <p>Вы никуда не спешите. И всё время - ваше. Никаких дел. Никаких забот. Только отдых.</p>
       <p>Вечером вы сидите у костра. Рядом - ваши близкие. А утром вы проснётесь в тишине, а не под будильник. И это будет лучшее утро за долгое время.</p>
       <p>Вот вы уже по-настоящему отдохнули. А впереди - ещё день. Или даже несколько. Время принадлежит только вам. Отдых, где всё - для вас.</p>
-      <div class="imp-finale"><p>Это не сказка. Это Усадьба Плавни.</p></div>
+      <div class="imp-finale"><p>Это не сказка. Это Горная Усадьба.</p></div>
     </div>
   </div>
 </section>
@@ -743,7 +743,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
   <div class="sec-inner-wide">
     <div class="sec-header-row">
       <div class="left">
-        <p>Идеальный день в Усадьбе</p>
+        <p>Идеальный день в Горной Усадьбе</p>
         <h2>Сценарии вашего отдыха</h2>
       </div>
     
@@ -760,7 +760,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
   <h2>Естественная красота природы и продуманный комфорт</h2>
 </div>
     <div class="terr-grid">
-      <div class="terr-img"><img src="images/territory.jpg" alt="Территория Усадьбы Плавни" loading="lazy"></div>
+      <div class="terr-img"><img src="images/territory.jpg" alt="Территория Горной Усадьбы" loading="lazy"></div>
       <div class="terr-text">
         <span class="eyebrow eyebrow-warm">Территория</span>
         <p class="lead">Уютная база отдыха в живописном месте. Вокруг - лес, чистый воздух.</p>
@@ -796,7 +796,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
     </div>
     <div class="founder-sig">
       <p class="name">Александр</p>
-      <p class="role">Основатель Усадьбы Плавни</p>
+      <p class="role">Основатель Горной Усадьбы</p>
     </div>
   </div>
 </section>
@@ -1015,7 +1015,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
     <div class="tours-header">
       <span class="eyebrow eyebrow-warm">Окрестности усадьбы</span>
       <h2>Экскурсии и приключения</h2>
-      <p>Природа вокруг Усадьбы Плавни полна удивительных открытий. Мы организуем для вас (тексты заменим) </p>
+      <p>Природа вокруг Горной Усадьбы полна удивительных открытий. Мы организуем для вас (тексты заменим) </p>
     </div>
     <div class="tour-card">
       <div class="tour-img">
@@ -1074,7 +1074,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
         <div>
           <div style="display:flex;justify-content:space-between;align-items:flex-start">
             <div style="font-size:0.9rem;color:#78716c;font-weight:300;">
-              Мы всего в часе езды от Архыза и в двух часах езды от Ставрополя
+              Мы находимся в горах Алтая, в живописном и уединённом месте
             </div>
           </div>
         </div>
@@ -1091,7 +1091,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
       <div class="map-card">
         <div>
           <h3>Виртуальный 3D-тур</h3>
-          <p>Прогуляйтесь по ухоженной территории Усадьбы Плавни и загляните внутрь наших домиков с панорамными окнами прямо со своего экрана.</p>
+          <p>Прогуляйтесь по ухоженной территории Горной Усадьбы и загляните внутрь наших домиков с панорамными окнами прямо со своего экрана.</p>
         </div>
         <div class="tour-player">
           <iframe 
@@ -1114,7 +1114,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
 @media(max-width:768px){.finale-block{height:420px;}}
 </style>
 <div class="finale-block">
-  <img src="images/final.jpg" alt="Усадьба Плавни" style="width:100%;height:100%;object-fit:cover;object-position:center 40%;display:block;">
+  <img src="images/final.jpg" alt="Горная Усадьба" style="width:100%;height:100%;object-fit:cover;object-position:center 40%;display:block;">
   <div style="position:absolute;inset:0;background:linear-gradient(to bottom,transparent 30%,rgba(10,8,6,0.58) 100%);"></div>
   <div style="position:absolute;bottom:0;left:0;right:0;padding:0 2rem 2.5rem;text-align:center;display:flex;flex-direction:column;align-items:center;gap:1.5rem;">
     <p style="font-family:var(--editorial);font-style:italic;font-size:clamp(1.35rem,3vw,2.5rem);color:#fff;text-shadow:0 2px 24px rgba(0,0,0,0.45);margin:0;letter-spacing:-0.02em;line-height:1.3;max-width:44rem;">
@@ -1137,8 +1137,8 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
 
       <!-- Бренд -->
       <div class="footer-brand" style="margin:0;">
-        <span class="bn">Усадьба Плавни</span>
-        <p style="margin-top:.5rem;">База отдыха в горах Карачаево-Черкессии. Место, куда хочется возвращаться.</p>
+        <span class="bn">Горная Усадьба</span>
+        <p style="margin-top:.5rem;">База отдыха в горах Алтая. Место, куда хочется возвращаться.</p>
       </div>
 
       <!-- Контакты справа -->
@@ -1161,7 +1161,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
 
     <div class="footer-bottom">
       <div class="footer-copy">
-        <p>© 2026 Усадьба Плавни · Все права защищены</p>
+        <p>© 2026 Горная Усадьба · Все права защищены</p>
         <p>ИП Александр П. · ОГРНИП 326090000000000</p>
       </div>
       <div class="footer-right" style="display:flex;align-items:center;gap:1.5rem;">
@@ -1241,7 +1241,7 @@ footer{background:var(--sand);color:#78716c;font-size:.75rem;padding:4rem 1.5rem
     <button class="modal-close" style="background:#f5f5f4;color:#57534e" onclick="closeM('price-modal')">✕</button>
     <div class="price-modal-hdr">
       <span style="font-size:9px;font-family:monospace;text-transform:uppercase;letter-spacing:.25em;color:var(--warm);display:block;margin-bottom:.5rem">Актуальные тарифы</span>
-      <h3 style="font-family:var(--serif);font-size:1.75rem;color:#1c1917">Прайс-лист Усадьбы Плавни</h3>
+      <h3 style="font-family:var(--serif);font-size:1.75rem;color:#1c1917">Прайс-лист Горной Усадьбы</h3>
       <p style="font-size:.875rem;color:#78716c;font-weight:300;margin-top:.375rem">Цены актуальны на текущий сезон 2026 года. Все налоги и базовая уборка включены.</p>
     </div>
     <div class="price-modal-wrap">
@@ -1317,7 +1317,7 @@ const services = [
   const cabins = [
   {
     id: "white-amur",
-    name: "Белый амур",
+    name: "Горный ручей",
     description: "Просторный двухэтажный домик у самого пруда. Большая терраса с мангалом и шезлонгами. Внутри - уютная гостиная, полностью оборудованная кухня, спальня. Тёплый пол, панорамные окна и собственный выход к воде.",
     capacity: "от 2-х гостей",
     priceLabel: "от 10 000 ₽ / сутки",
@@ -1345,7 +1345,7 @@ const services = [
   },
   {
     id: "mirror-carp",
-    name: "Зеркальный карп",
+    name: "Озерный бриз",
     description: "Просторный двухэтажный домик рядом с бассейном. Собственная терраса с зоной для отдыха, индивидуальным мангалом. Внутри - светлая гостиная, кухня со всей необходимой посудой, спальня. Тёплый пол и огромные панорамные окна.",
     capacity: "от 2-х гостей",
     priceLabel: "от 11 000 ₽ / сутки",
@@ -1377,7 +1377,7 @@ const services = [
   },
   {
     id: "rainbow-trout",
-    name: "Радужная форель",
+    name: "Скальный уют",
     description: "Просторный двухэтажный домик с шикарным выходом к воде. Собственная терраса с мангалом и шезлонгами, откуда открывается завораживающий вид на горы и лес. Внутри - гостиная, полностью оборудованная кухня, спальня.",
     capacity: "от 2-х гостей",
     priceLabel: "от 10 000 ₽ / сутки",
@@ -1405,7 +1405,7 @@ const services = [
   },
   {
     id: "nalim",
-    name: "Налим",
+    name: "Лесной простор",
     description: "Уютный и просторный домик для большой компании или дружной семьи. Просторная гостиная с массивным деревянным столом, полностью оборудованная кухня. Мансардный этаж со спальными местами. Терраса с видом на горы.",
     capacity: "от 2-х гостей (до 7 человек)",
     priceLabel: "от 8 000 ₽ / сутки",
@@ -1431,10 +1431,10 @@ const services = [
 ];
 const reviews=[
   {id:1,author:"Виктория",stars:5,text:"ВОСТОРГ! Я очень рада, что нашла это место, мы с мужем уставшие с дороги приехали и были в таком восторге! Нам открыли горячий бассейн, в доме было тепло и уютно, все очень чисто!! Отдельно хочу отметить очень качественную мебель (кровать невероятная, мы сразу отключились и выспались на ней так, как давно не спали)."},
-  {id:2,author:"Ирина",stars:5,text:"Усадьба Плавни однозначно заслуживает высшей оценки - пять звёздочек! Очень красивая, благоустроенная территория. Много зон отдыха с качелями, на которых заботливо лежат пледы. Везде чувствуется атмосфера уюта и искренняя забота о гостях. Однозначно вернёмся!"},
+  {id:2,author:"Ирина",stars:5,text:"Горная Усадьба однозначно заслуживает высшей оценки - пять звёздочек! Очень красивая, благоустроенная территория. Много зон отдыха с качелями, на которых заботливо лежат пледы. Везде чувствуется атмосфера уюта и искренняя забота о гостях. Однозначно вернёмся!"},
   {id:3,author:"Данил",stars:5,text:"Уютный дом отдыха. Отдыхали семьей и получили колоссальное удовольствие. Хозяева очень приветливые и отзывчивые, что мы очень оценили. Номера идеально чистые, аккуратные и современные, однозначно советую всем для спокойного загородного уикенда."},
   {id:4,author:"Анастасия",stars:5,text:"Отличное место для полноценного отдыха. Все продумано до мелочей, комфортно и уютно. Шикарный вид на озеро и гору. Баня современная, наверху с удовольствием пели караоке. Есть чистый теплый бассейн - само то после бани. Порадовал ремонт и уютная атмосфера."},
-  {id:5,author:"Наталья",stars:5,text:"Отмечали день рождения дочери в Усадьбе Плавни. Это невероятное место для полноценного отдыха и душой и телом. Два дня пролетели как в сказке! Огромное спасибо хозяевам, которые приняли нас очень гостеприимно. Все на высшем уровне, советую всем!"}
+  {id:5,author:"Наталья",stars:5,text:"Отмечали день рождения дочери в Горной Усадьбе. Это невероятное место для полноценного отдыха и душой и телом. Два дня пролетели как в сказке! Огромное спасибо хозяевам, которые приняли нас очень гостеприимно. Все на высшем уровне, советую всем!"}
 ];
 
 // UTILS
@@ -1481,7 +1481,7 @@ services.forEach(s => {
 // RENDER REVIEWS
 const rs=document.getElementById('rs');
 reviews.forEach(r=>{
-  rs.innerHTML+=`<div class="rev-card"><div><div class="rev-stars">${'★'.repeat(r.stars).split('').map(()=>'<span class="rev-star">★</span>').join('')}</div><p class="rev-text">${r.text}</p></div><div class="rev-footer"><div class="rev-author"><span class="name">${r.author}</span><span class="label">Гость Усадьбы Плавни</span></div><span class="rev-badge">Подтвержденный отзыв</span></div></div>`;
+  rs.innerHTML+=`<div class="rev-card"><div><div class="rev-stars">${'★'.repeat(r.stars).split('').map(()=>'<span class="rev-star">★</span>').join('')}</div><p class="rev-text">${r.text}</p></div><div class="rev-footer"><div class="rev-author"><span class="name">${r.author}</span><span class="label">Гость Горной Усадьбы</span></div><span class="rev-badge">Подтвержденный отзыв</span></div></div>`;
 });
 
 // RENDER CABINS
@@ -1794,7 +1794,7 @@ let content = '';
   </div>
 </div>
         
-        <p>Все гости Усадьбы Плавни могут посещать наш бассейн с современной системой очистки и подогревом воды бесплатно.</p>
+        <p>Все гости Горной Усадьбы могут посещать наш бассейн с современной системой очистки и подогревом воды бесплатно.</p>
         <p>Преимущества бассейна с подогревом – это удлинённый купальный сезон, возможность купаться не только в летний сезон, но и в прохладное время года. Это значит, что не нужно заранее планировать активность или ждать, когда вода прогреется.</p>
         <p>В любое время года мы предлагаем комфортные условия для плавания — системы подогрева поддерживают температуру воды на уровне 33–36°C, что подходит как для взрослых, так и для детей.</p>
         <p>Бассейн разделен на две зоны с разной степенью глубины, что делает его идеальным местом для семейного отдыха с детьми.</p>
@@ -1849,7 +1849,7 @@ let content = '';
 
       <p>Нашим гостям мы предлагаем оздоровительный банный чан на дровах с живительной водой. На удобных сиденьях может разместиться компания до 4 человек.</p>
       
-      <p>Комфортная температура в 37–41°C, сочетание целебных трав, собранных в высокогорье Архыза, хвойных веток, эфирных масел и цитрусовых сделают ваш отдых не только приятным, но и полезным. Парение на открытом воздухе с видом на тихую гладь пруда поможет восстановить здоровье, сохранить красоту, пролить молодость, обрести силы и избавиться от усталости.</p>
+      <p>Комфортная температура в 37–41°C, сочетание целебных трав, собранных в высокогорье Алтая, хвойных веток, эфирных масел и цитрусовых сделают ваш отдых не только приятным, но и полезным. Парение на открытом воздухе с видом на тихую гладь пруда поможет восстановить здоровье, сохранить красоту, пролить молодость, обрести силы и избавиться от усталости.</p>
       
       <p>Банные чаны на дровах – это особый вид процедур, который становится все более популярным среди ценителей традиционной русской бани. В отличие от электрических или газовых котлов, чаны на дровах предлагают уникальный банный опыт, сочетая в себе атмосферу натурального огня, свежего воздуха и заботливо поддерживаемой температуры.</p>
       
